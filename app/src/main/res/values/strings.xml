@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_start_game">Start New Game</string>
+
+    <string name="hello">Hello World, AdventureActivity!</string>
+    <string name="app_name">Android Adventure</string>
+    <string name="viewLabel">Your View</string>
+    <string name="itemsHeldLabel">My Items</string>
+    <string name="west">Go West</string>
+    <string name="north">Go North</string>
+    <string name="south">Go South</string>
+    <string name="east">Go East</string>
+    <string name="up">Go Up</string>
+    <string name="down">Go Down</string>
+    <string name="grab">Grab</string>
+    <string name="drop">Drop</string>
+    <string name="myView">My View</string>
+    <string name="myThings">My Things</string>
+</resources>

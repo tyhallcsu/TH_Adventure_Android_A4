@@ -1,0 +1,7 @@
+apply plugin: 'java'
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'junit:junit:4.12'
+    compile 'com.fitbur.testify.junit:junit:0.1.3'
+}
